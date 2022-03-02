@@ -1,2 +1,5 @@
 # Bluetooth
 bluetooth.device.default_name=Xiaomi Mi 8 SE
+
+# USB
+vendor.usb.product_string=Xiaomi Mi 8 SE
