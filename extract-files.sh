@@ -14,7 +14,7 @@ function blob_fixup() {
             ${PATCHELF} --replace-needed "libprotobuf-cpp-full.so" "libprotobuf-cpp-full-v29.so" "${2}"
             ;;
         vendor/lib/camera/components/com.qti.node.watermark.so)
-            ${PATCHELF} --add-needed "libpiex-v29.so" "${2}"
+            grep -q "libpiex_shim.so" "${2}" || ${PATCHELF} --add-needed "libpiex_shim.so" "${2}"
             ;;
     esac
 }
