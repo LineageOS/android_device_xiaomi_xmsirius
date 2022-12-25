@@ -69,6 +69,24 @@
       "parentUuid": "ae6b4b09_2588f487",
       "revId": "83be15577143d3f824e95273719698173da9b5d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d9290a41_9f255b16",
+        "filename": "rro_overlays/WifiOverlay/AndroidManifest.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 27772
+      },
+      "writtenOn": "2022-12-25T18:39:15Z",
+      "side": 1,
+      "message": "Yeah, i would use xmsirius",
+      "parentUuid": "1046e70e_17a7c7d1",
+      "revId": "83be15577143d3f824e95273719698173da9b5d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
