@@ -16,6 +16,23 @@
       "message": "Works flawlessly",
       "revId": "2087f95392c440cab6454ee04ebcec3dd0a6978a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a23407fe_02ead080",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2022-12-26T00:56:18Z",
+      "side": 1,
+      "message": "You can pick the follow-up commit as well.",
+      "revId": "2087f95392c440cab6454ee04ebcec3dd0a6978a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
